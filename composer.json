@@ -1,7 +1,7 @@
 {
     "name": "lechpat/cms",
     "description": "CMS, open source content management system for PHP",
-    "type": "project",
+    "type": "cakephp-plugin",
     "keywords": ["framework", "cms", "cmf", "cakephp"],
     "homepage": "http://github.com/lechpat/cms",
     "license": "GPL-3.0",
