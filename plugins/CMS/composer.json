@@ -2,7 +2,7 @@
     "name": "cms-plugins/cms",
     "description": "CMS core libraries.",
     "type": "cakephp-plugin",
-    "keywords": ["framework", "cms", "cmf", "quickapps", "core"],
+    "keywords": ["framework", "cms", "cmf", "core"],
     "license": "GPL-3.0",
     "authors": [
         {

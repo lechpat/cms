@@ -1,15 +1,11 @@
 {
     "name": "lechpat/cms",
     "description": "CMS, open source content management system for PHP",
-    "type": "cakephp-plugin",
+    "type": "project",
     "keywords": ["framework", "cms", "cmf", "cakephp"],
     "homepage": "http://github.com/lechpat/cms",
     "license": "GPL-3.0",
     "authors": [
-        {
-            "name": "Christopher Castro",
-            "email": "chris@quickapps.es"
-        },
         {
             "name": "Mario Valdez",
             "email": "lechpat@me.com"
@@ -17,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.4.19",
-        "goaop/framework": "*",
+        "goaop/framework": "^0.6.1",
         "cakephp/cakephp": "~3.0"
     },
     "require-dev": {
